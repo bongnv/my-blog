@@ -1,6 +1,6 @@
 module.exports = {
   title: "My blog",
-  description: "This is another blog.",
+  description: "This is another blog",
   base: "/my-blog",
   theme: "@vuepress/blog",
   themeConfig: {
